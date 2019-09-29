@@ -1,0 +1,3 @@
+https://github.com/ianisme/CoolNavi.git
+https://github.com/ianisme/CoolNaviDemo_Swift.git
+https://github.com/ianisme/IanAlert.git
